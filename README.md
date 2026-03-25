@@ -10,4 +10,11 @@ Pages:
 - reset-password.html : This will reset ur password and redirect you to the login page.
 - dashboard.html : This is the final page after u login in and u also have an option to log out.
 
-All redirections are done using anchor tags.
+Application Flow:
+
+Login → Dashboard  
+Register → Login  
+Forgot Password → Reset Password → Login  
+Dashboard → Logout → Login  
+
+
