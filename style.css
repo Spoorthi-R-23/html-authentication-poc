@@ -1,0 +1,26 @@
+body {
+    background: linear-gradient(135deg, #667eea, #764ba2);
+    font-family: 'Arial', sans-serif;
+}
+
+.card {
+    border-radius: 12px;
+    border: none;
+}
+
+.btn-primary {
+    background-color: #4a6cf7;
+    border: none;
+}
+
+.btn-primary:hover {
+    background-color: #3b5be0;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
